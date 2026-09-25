@@ -1,4 +1,7 @@
 Primer repositorio
 
-##Autor
+## Autor
 Manuel Francisco López Iñigo
+
+## Remote repository
+GitHub
